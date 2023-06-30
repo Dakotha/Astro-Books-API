@@ -3,6 +3,10 @@ Jest to druga część zadania rekrutacyjnego, polegająca na stworzeniu API dla
 
 Aplikację napisałem za pomocą framework'a [Astro](https://astro.build).
 
+Demo aplikacji możesz zobaczyć tutaj: [https://astro-books-api.robb.cfolks.pl](https://astro-books-api.robb.cfolks.pl)
+
+---
+
 Pierwszą część zadania, czyli samo API znajdziesz pod adresami:
 
 GITHUB: [Lara Books API](https://github.com/Dakotha/Lara-Books-API)
