@@ -1,17 +1,17 @@
 # Zadanie rekrutacyjne
 Jest to druga część zadania rekrutacyjnego, polegająca na stworzeniu API dla frontendowej aplikacji pobierającej i wyświetlającej dane.
 
-Aplikację napisałem za pomocą framework'a [Astro](https://astro.build).
+Aplikację napisałem za pomocą framework'a <a href="https://astro.build" target="_blank">Astro</a>.
 
-Demo aplikacji możesz zobaczyć tutaj: [https://astro-books-api.robb.cfolks.pl](https://astro-books-api.robb.cfolks.pl)
+Demo aplikacji możesz zobaczyć tutaj: <a href="https://astro-books-api.robb.cfolks.pl" target="_blank">https://astro-books-api.robb.cfolks.pl</a>
 
 ---
 
 Pierwszą część zadania, czyli samo API znajdziesz pod adresami:
 
-GITHUB: [Lara Books API](https://github.com/Dakotha/Lara-Books-API)
+GITHUB: <a href="https://github.com/Dakotha/Lara-Books-API" target="_blank">Lara Books API</a>
 
-DEMO: [https://lara-books-api.robb.cfolks.pl](https://lara-books-api.robb.cfolks.pl)
+DEMO: <a href="https://lara-books-api.robb.cfolks.pl" target="_blank">https://lara-books-api.robb.cfolks.pl</a>
 
 
 ## Opis zadania
