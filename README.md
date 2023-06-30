@@ -1,47 +1,30 @@
-# Astro Starter Kit: Minimal
+# Zadanie rekrutacyjne
+Jest to druga część zadania rekrutacyjnego, polegająca na stworzeniu API dla frontendowej aplikacji pobierającej i wyświetlającej dane.
+
+Aplikację napisałem za pomocą framework'a [Astro](https://astro.build).
+
+Pierwszą część zadania, czyli samo API znajdziesz pod adresami:
+
+GITHUB: [Lara Books API](https://github.com/Dakotha/Lara-Books-API)
+
+DEMO: [https://lara-books-api.robb.cfolks.pl](https://lara-books-api.robb.cfolks.pl)
+
+
+## Opis zadania
+Zadanie składa się z dwóch części. Najpierw należy stworzyć API serwujące listę książek. Każda książka może należeć do jednej kategorii lub nie należeć do żadnej i do wielu autorów.
+Następnie należy stworzyć aplikację pobierającą i wyświetlającą dane z API.
+
+## Jak uruchomoć projekt?
+
+Aby uruchomić projekt wykonaj następujące komendy w terminalu:
 
 ```
-npm create astro@latest -- --template minimal
+npm install
+npm run dev
 ```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
+lub aby zbudować projekt:
 ```
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+npm install
+npm run build
 ```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Powyższa komenda **build** zbuduje projekt i umieści go w katalogu **dist**.
